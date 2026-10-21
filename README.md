@@ -48,3 +48,12 @@ rfad_launcher/
 ```bash
 python3 src/main.py
 ```
+
+---
+
+## Автор и Лицензия
+
+- **Автор:** [GrimeVoid](https://github.com/GrimeVoid)
+- **Репозиторий:** [RFAD-Linux-Launcher](https://github.com/GrimeVoid/RFAD-Linux-Launcher)
+- **Лицензия:** [MIT License](LICENSE)
+
