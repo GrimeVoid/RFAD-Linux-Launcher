@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and staging files
+.staging*
+*.log
+
+# Aider chat histories
+.aider*
+
+# Testing & Virtual Environments
+.pytest_cache/
+.venv/
+venv/
+ENV/
+
+# Environment variables & local configs
+.env
+.env.*
+*.local.json
+.DS_Store
